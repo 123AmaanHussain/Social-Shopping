@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shared Carts</title>
+    <style>
+        /* Add your CSS here */
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Shared Carts</h1>
+    </div>
+    <div class="container">
+        <div class="shared-carts">
+            {% for cart in carts %}
+            <div class="cart-item">
+                <h3>Shared by: {{ cart.user_id }}</h3>
+                <ul>
+                    {% for item in cart.cart_items %}
+                    <li>{{ item.product_name }} - ${{ item.product_price }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

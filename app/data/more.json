@@ -1,0 +1,478 @@
+[
+    {
+        "_id": "64d23bad3933cdb465aff690",
+        "name": "Joyful Blanket",
+        "description": "comfort",
+        "price": 29.99,
+        "image_url": "https://example.com/joyful_blanket.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff691",
+        "name": "Fun Puzzle",
+        "description": "fun",
+        "price": 19.99,
+        "image_url": "https://example.com/fun_puzzle.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff692",
+        "name": "Celebration Balloon",
+        "description": "celebration",
+        "price": 9.99,
+        "image_url": "https://example.com/celebration_balloon.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff693",
+        "name": "Comforting Tea Set",
+        "description": "comfort",
+        "price": 39.99,
+        "image_url": "https://example.com/comforting_tea_set.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff694",
+        "name": "Soothe Bath Bombs",
+        "description": "soothe",
+        "price": 15.99,
+        "image_url": "https://example.com/soothe_bath_bombs.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff695",
+        "name": "Relaxing Aromatherapy Kit",
+        "description": "relax",
+        "price": 24.99,
+        "image_url": "https://example.com/relaxing_aromatherapy_kit.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff696",
+        "name": "Calm Yoga Mat",
+        "description": "calm",
+        "price": 29.99,
+        "image_url": "https://example.com/calm_yoga_mat.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff697",
+        "name": "Stress Relief Journal",
+        "description": "stress relief",
+        "price": 12.99,
+        "image_url": "https://example.com/stress_relief_journal.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff698",
+        "name": "Exercise Resistance Bands",
+        "description": "exercise",
+        "price": 22.99,
+        "image_url": "https://example.com/exercise_resistance_bands.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff699",
+        "name": "Basic T-Shirt",
+        "description": "basic",
+        "price": 14.99,
+        "image_url": "https://example.com/basic_tshirt.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff600",
+        "name": "Everyday Socks",
+        "description": "everyday",
+        "price": 8.99,
+        "image_url": "https://example.com/everyday_socks.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff601",
+        "name": "Novelty Mug",
+        "description": "novelty",
+        "price": 11.99,
+        "image_url": "https://example.com/novelty_mug.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff602",
+        "name": "Unique Gift Box",
+        "description": "gift",
+        "price": 49.99,
+        "image_url": "https://example.com/unique_gift_box.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff603",
+        "name": "Security Camera",
+        "description": "security",
+        "price": 89.99,
+        "image_url": "https://example.com/security_camera.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff604",
+        "name": "Self-Care Journal",
+        "description": "self-care",
+        "price": 18.99,
+        "image_url": "https://example.com/self_care_journal.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff605",
+        "name": "Comforting Slippers",
+        "description": "comfort",
+        "price": 25.99,
+        "image_url": "https://example.com/comforting_slippers.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff606",
+        "name": "Joyful Candle",
+        "description": "joy",
+        "price": 13.99,
+        "image_url": "https://example.com/joyful_candle.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff607",
+        "name": "Fun Board Game",
+        "description": "fun",
+        "price": 29.99,
+        "image_url": "https://example.com/fun_board_game.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff608",
+        "name": "Celebration Cake",
+        "description": "celebration",
+        "price": 39.99,
+        "image_url": "https://example.com/celebration_cake.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff609",
+        "name": "Comfortable Sweater",
+        "description": "comfort",
+        "price": 34.99,
+        "image_url": "https://example.com/comfortable_sweater.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff610",
+        "name": "Soothe Essential Oils",
+        "description": "soothe",
+        "price": 21.99,
+        "image_url": "https://example.com/soothe_essential_oils.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff611",
+        "name": "Relaxing Spa Set",
+        "description": "relax",
+        "price": 49.99,
+        "image_url": "https://example.com/relaxing_spa_set.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff612",
+        "name": "Calm Music Playlist",
+        "description": "calm",
+        "price": 9.99,
+        "image_url": "https://example.com/calm_music_playlist.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff613",
+        "name": "Stress Relief Cushion",
+        "description": "stress relief",
+        "price": 19.99,
+        "image_url": "https://example.com/stress_relief_cushion.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff614",
+        "name": "Exercise Dumbbells",
+        "description": "exercise",
+        "price": 39.99,
+        "image_url": "https://example.com/exercise_dumbbells.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff615",
+        "name": "Basic Phone Charger",
+        "description": "basic",
+        "price": 14.99,
+        "image_url": "https://example.com/basic_phone_charger.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff616",
+        "name": "Everyday Planner",
+        "description": "everyday",
+        "price": 22.99,
+        "image_url": "https://example.com/everyday_planner.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff617",
+        "name": "Novelty Socks",
+        "description": "novelty",
+        "price": 11.99,
+        "image_url": "https://example.com/novelty_socks.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff618",
+        "name": "Unique Desk Lamp",
+        "description": "unique",
+        "price": 39.99,
+        "image_url": "https://example.com/unique_desk_lamp.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff619",
+        "name": "Security Alarm",
+        "description": "security",
+        "price": 69.99,
+        "image_url": "https://example.com/security_alarm.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff620",
+        "name": "Self-Care Face Mask",
+        "description": "self-care",
+        "price": 14.99,
+        "image_url": "https://example.com/self_care_face_mask.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff621",
+        "name": "Comforting Hoodie",
+        "description": "comfort",
+        "price": 44.99,
+        "image_url": "https://example.com/comforting_hoodie.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff622",
+        "name": "Joyful Music Box",
+        "description": "joy",
+        "price": 27.99,
+        "image_url": "https://example.com/joyful_music_box.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff623",
+        "name": "Fun Video Game",
+        "description": "fun",
+        "price": 59.99,
+        "image_url": "https://example.com/fun_video_game.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff624",
+        "name": "Celebration Cake Topper",
+        "description": "celebration",
+        "price": 8.99,
+        "image_url": "https://example.com/celebration_cake_topper.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff625",
+        "name": "Comfortable Throw Pillow",
+        "description": "comfort",
+        "price": 18.99,
+        "image_url": "https://example.com/comfortable_throw_pillow.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff626",
+        "name": "Soothe Foot Soak",
+        "description": "soothe",
+        "price": 16.99,
+        "image_url": "https://example.com/soothe_foot_soak.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff627",
+        "name": "Relaxing Blanket",
+        "description": "relax",
+        "price": 32.99,
+        "image_url": "https://example.com/relaxing_blanket.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff628",
+        "name": "Calm Meditation Cushion",
+        "description": "calm",
+        "price": 29.99,
+        "image_url": "https://example.com/calm_meditation_cushion.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff629",
+        "name": "Stress Relief Candle",
+        "description": "stress relief",
+        "price": 13.99,
+        "image_url": "https://example.com/stress_relief_candle.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff630",
+        "name": "Exercise Yoga Blocks",
+        "description": "exercise",
+        "price": 18.99,
+        "image_url": "https://example.com/exercise_yoga_blocks.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff631",
+        "name": "Basic Notepad",
+        "description": "basic",
+        "price": 9.99,
+        "image_url": "https://example.com/basic_notepad.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff632",
+        "name": "Everyday Water Bottle",
+        "description": "everyday",
+        "price": 14.99,
+        "image_url": "https://example.com/everyday_water_bottle.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff633",
+        "name": "Novelty Keychain",
+        "description": "novelty",
+        "price": 7.99,
+        "image_url": "https://example.com/novelty_keychain.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff634",
+        "name": "Unique Wall Art",
+        "description": "unique",
+        "price": 45.99,
+        "image_url": "https://example.com/unique_wall_art.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff635",
+        "name": "Security Door Lock",
+        "description": "security",
+        "price": 89.99,
+        "image_url": "https://example.com/security_door_lock.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff636",
+        "name": "Self-Care Spa Kit",
+        "description": "self-care",
+        "price": 35.99,
+        "image_url": "https://example.com/self_care_spa_kit.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff637",
+        "name": "Comforting Eye Mask",
+        "description": "comfort",
+        "price": 12.99,
+        "image_url": "https://example.com/comforting_eye_mask.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff638",
+        "name": "Joyful Desk Organizer",
+        "description": "joy",
+        "price": 23.99,
+        "image_url": "https://example.com/joyful_desk_organizer.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff639",
+        "name": "Fun Camera",
+        "description": "fun",
+        "price": 79.99,
+        "image_url": "https://example.com/fun_camera.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff640",
+        "name": "Celebration Party Supplies",
+        "description": "celebration",
+        "price": 24.99,
+        "image_url": "https://example.com/celebration_party_supplies.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff641",
+        "name": "Comfortable Sweatpants",
+        "description": "comfort",
+        "price": 39.99,
+        "image_url": "https://example.com/comfortable_sweatpants.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff642",
+        "name": "Soothe Neck Pillow",
+        "description": "soothe",
+        "price": 21.99,
+        "image_url": "https://example.com/soothe_neck_pillow.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff643",
+        "name": "Relaxing Tea",
+        "description": "relax",
+        "price": 18.99,
+        "image_url": "https://example.com/relaxing_tea.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff644",
+        "name": "Calm Light Projector",
+        "description": "calm",
+        "price": 34.99,
+        "image_url": "https://example.com/calm_light_projector.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff645",
+        "name": "Stress Relief Pillow",
+        "description": "stress relief",
+        "price": 22.99,
+        "image_url": "https://example.com/stress_relief_pillow.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff646",
+        "name": "Exercise Jump Rope",
+        "description": "exercise",
+        "price": 15.99,
+        "image_url": "https://example.com/exercise_jump_rope.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff647",
+        "name": "Basic Water Filter",
+        "description": "basic",
+        "price": 19.99,
+        "image_url": "https://example.com/basic_water_filter.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff648",
+        "name": "Everyday Umbrella",
+        "description": "everyday",
+        "price": 12.99,
+        "image_url": "https://example.com/everyday_umbrella.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff649",
+        "name": "Novelty Phone Case",
+        "description": "novelty",
+        "price": 16.99,
+        "image_url": "https://example.com/novelty_phone_case.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff650",
+        "name": "Unique Wall Clock",
+        "description": "unique",
+        "price": 55.99,
+        "image_url": "https://example.com/unique_wall_clock.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff651",
+        "name": "Security Safe",
+        "description": "security",
+        "price": 149.99,
+        "image_url": "https://example.com/security_safe.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff652",
+        "name": "Self-Care Bath Set",
+        "description": "self-care",
+        "price": 27.99,
+        "image_url": "https://example.com/self_care_bath_set.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff653",
+        "name": "Comforting Scarf",
+        "description": "comfort",
+        "price": 22.99,
+        "image_url": "https://example.com/comforting_scarf.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff654",
+        "name": "Joyful Plant",
+        "description": "joy",
+        "price": 15.99,
+        "image_url": "https://example.com/joyful_plant.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff655",
+        "name": "Fun Musical Toy",
+        "description": "fun",
+        "price": 25.99,
+        "image_url": "https://example.com/fun_musical_toy.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff656",
+        "name": "Celebration Streamers",
+        "description": "celebration",
+        "price": 7.99,
+        "image_url": "https://example.com/celebration_streamers.jpg"
+    },
+    {
+        "_id": "64d23bad3933cdb465aff657",
+        "name": "Comfortable Sweatshirt",
+        "description": "comfort",
+        "price": 39.99,
+        "image_url": "https://example.com/comfortable_sweatshirt.jpg"
+    }
+]

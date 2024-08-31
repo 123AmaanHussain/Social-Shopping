@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Your Web Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .button {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            margin: 0.5rem;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        .welcome {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .product-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        .product-item {
+            width: 30%;
+            margin: 1rem;
+            padding: 1rem;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .product-item:hover {
+            transform: scale(1.05);
+        }
+
+        .product-item a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        .product-item a:hover {
+            color: #007bff;
+        }
+
+        .product-item h3 {
+            margin: 0.5rem 0;
+        }
+
+        .product-item p {
+            margin: 0.5rem 0;
+        }
+
+        .add-to-cart-button {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            margin-top: 1rem;
+            color: #fff;
+            background-color: #2831a75d;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .add-to-cart-button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Welcome to Your Web Application</h1>
+        <p>Hello, {{ session['username'] }}!</p>
+    </div>
+
+    <div class="container">
+        <div class="welcome">
+            <h2>Explore Our Features</h2>
+            <p>Use the buttons below to navigate through our application.</p>
+        </div>
+
+        <a href="/add_product" class="button">Add Product</a>
+        <a href="/view_products" class="button">View Products</a>
+        <a href="/recommendations" class="button">View Recommendations</a>
+        <a href="/logout" class="button">Logout</a>
+        <a href="/cart" class="button">Cart</a>
+        <!-- Update your navigation in index.html -->
+        <a href="/create_group_purchase" class="button">Create Group Purchase</a>
+        <a href="/group_purchases" class="button">View Group Purchases</a>
+
+
+        <!-- Product Listing Section -->
+        <div class="product-list">
+            {% for product in products %}
+            <div class="product-item">
+                <a href="{{ url_for('product_details', product_id=product._id) }}">
+                    <h3>{{ product.name }}</h3>
+                    <p>Price: ${{ product.price }}</p>
+                </a>
+                <a href="{{ url_for('add_to_cart', product_id=product._id) }}" class="add-to-cart-button">
+                    Add to Cart
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+
+</html>

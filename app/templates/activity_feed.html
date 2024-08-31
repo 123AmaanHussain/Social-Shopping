@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Feed</title>
+    <style>
+        /* Add your CSS here */
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Activity Feed</h1>
+    </div>
+    <div class="container">
+        <div class="activity-feed">
+            {% for activity in activities %}
+            <div class="activity-item">
+                <p>{{ activity.activity }}</p>
+                <p>{{ activity.timestamp }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

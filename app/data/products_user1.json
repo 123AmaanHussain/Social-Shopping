@@ -1,0 +1,130 @@
+[
+    {
+        "_id": "1a2b3c4d5e6f7g8h9i0j1k2l",
+        "name": "vivo v29e",
+        "description": "Mobile",
+        "price": 29,
+        "category": "Electronics",
+        "image_url": ""
+    },
+    {
+        "_id": "2b3c4d5e6f7g8h9i0j1k2l3m",
+        "name": "Samsung Galaxy S21",
+        "description": "Smartphone with high-resolution display.",
+        "price": 699,
+        "category": "Electronics",
+        "image_url": "http://example.com/images/samsung-galaxy-s21.jpg"
+    },
+    {
+        "_id": "3c4d5e6f7g8h9i0j1k2l3m4n",
+        "name": "Sony WH-1000XM4",
+        "description": "Noise-cancelling wireless headphones.",
+        "price": 349,
+        "category": "Electronics",
+        "image_url": "http://example.com/images/sony-wh-1000xm4.jpg"
+    },
+    {
+        "_id": "4d5e6f7g8h9i0j1k2l3m4n5o",
+        "name": "Apple MacBook Air",
+        "description": "Lightweight laptop with M1 chip.",
+        "price": 999,
+        "category": "Electronics",
+        "image_url": "http://example.com/images/macbook-air.jpg"
+    },
+    {
+        "_id": "5e6f7g8h9i0j1k2l3m4n5o6p",
+        "name": "Nike Air Max 270",
+        "description": "Comfortable and stylish sneakers.",
+        "price": 150,
+        "category": "Footwear",
+        "image_url": "http://example.com/images/nike-air-max-270.jpg"
+    },
+    {
+        "_id": "6f7g8h9i0j1k2l3m4n5o6p7q",
+        "name": "Adidas Ultraboost",
+        "description": "Running shoes with Boost cushioning.",
+        "price": 180,
+        "category": "Footwear",
+        "image_url": "http://example.com/images/adidas-ultraboost.jpg"
+    },
+    {
+        "_id": "7g8h9i0j1k2l3m4n5o6p7q8r",
+        "name": "Sony 65-inch 4K TV",
+        "description": "4K Ultra HD Smart TV with HDR.",
+        "price": 1200,
+        "category": "Electronics",
+        "image_url": "http://example.com/images/sony-65-inch-tv.jpg"
+    },
+    {
+        "_id": "8h9i0j1k2l3m4n5o6p7q8r9s",
+        "name": "KitchenAid Stand Mixer",
+        "description": "Heavy-duty mixer with multiple attachments.",
+        "price": 300,
+        "category": "Appliances",
+        "image_url": "http://example.com/images/kitchenaid-mixer.jpg"
+    },
+    {
+        "_id": "9i0j1k2l3m4n5o6p7q8r9s0t",
+        "name": "Dyson V11 Vacuum Cleaner",
+        "description": "Cordless vacuum cleaner with powerful suction.",
+        "price": 600,
+        "category": "Appliances",
+        "image_url": "http://example.com/images/dyson-v11.jpg"
+    },
+    {
+        "_id": "0j1k2l3m4n5o6p7q8r9s0t1u",
+        "name": "Samsung Galaxy Tab S7",
+        "description": "High-performance tablet with S Pen.",
+        "price": 650,
+        "category": "Electronics",
+        "image_url": "http://example.com/images/galaxy-tab-s7.jpg"
+    },
+    {
+        "_id": "1k2l3m4n5o6p7q8r9s0t1u2v",
+        "name": "Canon EOS R5",
+        "description": "Mirrorless camera with high-resolution sensor.",
+        "price": 3899,
+        "category": "Photography",
+        "image_url": "http://example.com/images/canon-eos-r5.jpg"
+    },
+    {
+        "_id": "2l3m4n5o6p7q8r9s0t1u2v3w",
+        "name": "GoPro Hero 9",
+        "description": "Action camera with 5K video recording.",
+        "price": 399,
+        "category": "Photography",
+        "image_url": "http://example.com/images/gopro-hero-9.jpg"
+    },
+    {
+        "_id": "3m4n5o6p7q8r9s0t1u2v3w4x",
+        "name": "Fitbit Charge 4",
+        "description": "Fitness tracker with GPS and heart rate monitor.",
+        "price": 150,
+        "category": "Wearables",
+        "image_url": "http://example.com/images/fitbit-charge-4.jpg"
+    },
+    {
+        "_id": "4n5o6p7q8r9s0t1u2v3w4x5y",
+        "name": "Apple Watch Series 6",
+        "description": "Smartwatch with ECG and blood oxygen monitoring.",
+        "price": 749,
+        "category": "Wearables",
+        "image_url": "http://example.com/images/apple-watch-series-6.jpg"
+    },
+    {
+        "_id": "5o6p7q8r9s0t1u2v3w4x5y6z",
+        "name": "Nintendo Switch",
+        "description": "Hybrid gaming console with detachable controllers.",
+        "price": 299,
+        "category": "Gaming",
+        "image_url": "http://example.com/images/nintendo-switch.jpg"
+    },
+    {
+        "_id": "6p7q8r9s0t1u2v3w4x5y6z7a",
+        "name": "PlayStation 5",
+        "description": "Next-gen gaming console with ultra-fast SSD.",
+        "price": 499,
+        "category": "Gaming",
+        "image_url": "http://example.com/images/playstation-5.jpg"
+    }
+]

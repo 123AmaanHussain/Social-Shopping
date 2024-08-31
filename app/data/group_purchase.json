@@ -1,0 +1,42 @@
+[
+    {
+        "group_name": "Summer Sale",
+        "created_by": "user1_id",
+        "members": ["user1_id", "user2_id"],
+        "products": [
+            {"product_id": "product1_id", "quantity": 2},
+            {"product_id": "product3_id", "quantity": 1}
+        ],
+        "discount": 10
+    },
+    {
+        "group_name": "Holiday Deals",
+        "created_by": "user2_id",
+        "members": ["user1_id", "user3_id"],
+        "products": [
+            {"product_id": "product2_id", "quantity": 1},
+            {"product_id": "product4_id", "quantity": 3}
+        ],
+        "discount": 15
+    },
+    {
+        "group_name": "Black Friday Extravaganza",
+        "created_by": "user3_id",
+        "members": ["user2_id", "user4_id"],
+        "products": [
+            {"product_id": "product5_id", "quantity": 4},
+            {"product_id": "product6_id", "quantity": 2}
+        ],
+        "discount": 20
+    },
+    {
+        "group_name": "Winter Wonderland",
+        "created_by": "user4_id",
+        "members": ["user1_id", "user5_id"],
+        "products": [
+            {"product_id": "product7_id", "quantity": 5},
+            {"product_id": "product8_id", "quantity": 1}
+        ],
+        "discount": 25
+    }
+]

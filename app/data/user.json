@@ -1,0 +1,218 @@
+[
+    {
+      "_id": "7a8b9c0d1e2f3g4h5i6j7k8l",
+      "name": "Huawei P40 Pro",
+      "description": "Smartphone with advanced camera system.",
+      "price": 799,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FHuawei-P40-Dual-PlayStore-256GB%2Fdp%2FB086J4R9BX&psig=AOvVaw2aTtpHnWUV2uhmvML82pDQ&ust=1725151278507000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjdmbz_nYgDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "8b9c0d1e2f3g4h5i6j7k8l9m",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "description": "Business laptop with high performance and durability.",
+      "price": 1199,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/imgres?q=Lenovo%20ThinkPad%20X1%20Carbon&imgurl=https%3A%2F%2Fp4-ofp.static.pub%2FShareResource%2Fna%2Fproducts%2Fthinkpad%2F1060x596%2Flenovo-thinkpad-x1-gen-11-carbon-cover-01.png&imgrefurl=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-11-14-inch-intel%2Flen101t0049&docid=R_kiRIF3pflAMM&tbnid=v2B9zjt2solKUM&vet=12ahUKEwiejMKBgJ6IAxX5yDgGHdksKoAQM3oECFsQAA..i&w=1060&h=596&hcb=2&ved=2ahUKEwiejMKBgJ6IAxX5yDgGHdksKoAQM3oECFsQAA"
+    },
+    {
+      "_id": "9c0d1e2f3g4h5i6j7k8l9m0n",
+      "name": "Apple AirPods Pro",
+      "description": "Wireless earbuds with noise cancellation.",
+      "price": 249,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoanghamobile.com%2Ftai-nghe%2Fairpods-pro-2-voi-hop-sac-usb-c-chinh-hang-apple-viet-nam&psig=AOvVaw1gZEkufn1T69xFrtzhmuFG&ust=1725151499614000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCwi6aAnogDFQAAAAAdAAAAABAY"
+    },
+    {
+      "_id": "0d1e2f3g4h5i6j7k8l9m0n1o",
+      "name": "Samsung QLED 8K TV",
+      "description": "8K Ultra HD Smart TV with Quantum Dot technology.",
+      "price": 2500,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Ftvs%2Fqled-tv%2Fqn900b-85-inch-neo-qled-8k-smart-tv-qa85qn900bkxxl%2F&psig=AOvVaw1yN-88cMO5Q54UxZaIK3Bz&ust=1725151553998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODRg7-AnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "1e2f3g4h5i6j7k8l9m0n1o2p",
+      "name": "Bose QuietComfort 35 II",
+      "description": "Wireless noise-cancelling headphones.",
+      "price": 299,
+      "category": "Electronics",
+      "image_url": "https://www.unboxify.in/cdn/shop/products/51JbsHSktkL._SL1500_3429842f-dfee-42fa-b34b-5e0d5fa47a1e.jpg?v=1694962506"
+    },
+    {
+      "_id": "2f3g4h5i6j7k8l9m0n1o2p3q",
+      "name": "Ooni Koda Pizza Oven",
+      "description": "Portable gas pizza oven for outdoor cooking.",
+      "price": 299,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thebarbequeshop.com%2Foutdoor-pizza-ovens-2%2Fooni-koda-16-gas-powered-pizza-oven&psig=AOvVaw0Hmewd7rzXzTUtsUbLLBed&ust=1725151669066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjN6_iAnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "3g4h5i6j7k8l9m0n1o2p3q4r",
+      "name": "Instant Pot Duo 7-in-1",
+      "description": "Multi-function pressure cooker.",
+      "price": 89,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicurious.com%2Fexpert-advice%2Finstant-pot-buying-guide-pressure-cooker-slow-cooker-article&psig=AOvVaw3MQoZrZAJsdl3r2IpPUcnT&ust=1725151704302000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD5-omBnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "4h5i6j7k8l9m0n1o2p3q4r5s",
+      "name": "Nespresso VertuoPlus",
+      "description": "Coffee maker with Centrifusion technology.",
+      "price": 179,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FNespresso-VertuoPlus-Coffee-Espresso-Breville%2Fdp%2FB01N13VKQN&psig=AOvVaw1XsKmSy5-2h6GvxDox8ovY&ust=1725151744845000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD9n5mBnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "5i6j7k8l9m0n1o2p3q4r5s6t",
+      "name": "HP Spectre x360",
+      "description": "Convertible laptop with high-resolution display.",
+      "price": 1349,
+      "category": "Electronics",
+      "image_url": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08828291-ultraevo_1.png"
+    },
+    {
+      "_id": "6j7k8l9m0n1o2p3q4r5s6t7u",
+      "name": "Ring Video Doorbell Pro 2",
+      "description": "Smart doorbell with 1536p HD video.",
+      "price": 249,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitaltrends.com%2Fhome%2Fring-video-doorbell-pro-2-review%2F&psig=AOvVaw3Eqd8-0RfoBsmazpqAyBl8&ust=1725151832841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD1k8uBnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "7k8l9m0n1o2p3q4r5s6t7u8v",
+      "name": "Ecovacs Deebot T8",
+      "description": "Robot vacuum cleaner with mopping function.",
+      "price": 649,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.prnasia.com%2Freleases%2Fapac%2Fecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-280900.shtml&psig=AOvVaw13gAdq0z-R2DlJkZdeQ20E&ust=1725151878426000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDtueKBnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "8l9m0n1o2p3q4r5s6t7u8v9w",
+      "name": "Roku Ultra",
+      "description": "4K streaming media player with HDR support.",
+      "price": 99,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.roku.com%2Fproducts%2Froku-ultra&psig=AOvVaw2URiQKMH3yVMoXbOQoHAd8&ust=1725151937368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiotfiBnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "9m0n1o2p3q4r5s6t7u8v9w0x",
+      "name": "Garmin Forerunner 945",
+      "description": "GPS smartwatch with advanced fitness features.",
+      "price": 599,
+      "category": "Wearables",
+      "image_url": "https://www.google.com/imgres?q=Garmin%20Forerunner%20945%22&imgurl=https%3A%2F%2Fwww.garmin.co.in%2Fminisite%2Fforerunner%2Fimages%2Fforerunner-945-black.png&imgrefurl=https%3A%2F%2Fwww.garmin.co.in%2Fminisite%2Fforerunner%2Fforerunner-945%2F&docid=ODqOquA8Oq1tAM&tbnid=E-jkhSot25EH0M&vet=12ahUKEwjT9Kedgp6IAxXPTGcHHVl5Lh0QM3oECGUQAA..i&w=800&h=1000&hcb=2&ved=2ahUKEwjT9Kedgp6IAxXPTGcHHVl5Lh0QM3oECGUQAA"
+    },
+    {
+      "_id": "0n1o2p3q4r5s6t7u8v9w0x1y",
+      "name": "Anker PowerCore 10000",
+      "description": "Compact portable charger with 10000mAh capacity.",
+      "price": 30,
+      "category": "Accessories",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1263&psig=AOvVaw0Ud5NuuicQcFcPe38wYQMs&ust=1725152069772000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDm6bSCnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "1o2p3q4r5s6t7u8v9w0x1y2z",
+      "name": "GoPro Hero 10",
+      "description": "Action camera with advanced stabilization.",
+      "price": 499,
+      "category": "Photography",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fgopro-hero-10-waterproof-front-lcd-touch-rear-screens-5-3k60-ultra-hd-video-1080p-live-streaming-webcam-stabilization-sports-action-camera%2Fp%2Fitm5f1f138a6cc3e&psig=AOvVaw3ZjelU3c47w7H0Yrn6-a8K&ust=1725152100105000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqhMSCnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "2p3q4r5s6t7u8v9w0x1y2z3a",
+      "name": "Amazon Echo Studio",
+      "description": "Smart speaker with high-fidelity sound.",
+      "price": 199,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FEcho-Studio%2Fdp%2FB07NQH4Q45&psig=AOvVaw3ZHExdc4GhSVyfxcsxgFdJ&ust=1725152141056000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODk-dWCnogDFQAAAAAdAAAAABAQ"
+    },
+    {
+      "_id": "3q4r5s6t7u8v9w0x1y2z3a4b",
+      "name": "Jabra Elite 75t",
+      "description": "True wireless earbuds with customizable sound.",
+      "price": 179,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitaltrends.com%2Fhome-theater%2Fjabra-elite-active-75t-review%2F&psig=AOvVaw3qodDcUVfStJe7oMXUE9Dg&ust=1725152174750000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDd1eeCnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "4r5s6t7u8v9w0x1y2z3a4b5c",
+      "name": "Miele Complete C3",
+      "description": "Canister vacuum cleaner with powerful suction.",
+      "price": 999,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.johnlewis.com%2Fmiele-complete-c3-125-edition-vacuum-cleaner-marine-blue%2Fp111774588&psig=AOvVaw3jkZacFar4FaCsJNlTRyrw&ust=1725152208848000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJijhPiCnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "5s6t7u8v9w0x1y2z3a4b5c6d",
+      "name": "Sennheiser Momentum 3",
+      "description": "Over-ear headphones with noise cancellation.",
+      "price": 399,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rtings.com%2Fheadphones%2Freviews%2Fsennheiser%2Fmomentum-3-wireless&psig=AOvVaw3-SO2EHdgf0-51PR4PRk_R&ust=1725152242666000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLih34eDnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "6t7u8v9w0x1y2z3a4b5c6d7e",
+      "name": "Logitech MX Master 3",
+      "description": "Wireless mouse with customizable buttons.",
+      "price": 99,
+      "category": "Accessories",
+      "image_url": "https://www.google.com/imgres?q=Logitech%20MX%20Master%203&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61xKiCADfpL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FLogitech-MX-Master-3S-Performance%2Fdp%2FB0B115YKL5&docid=tnXVYJlsDXn2AM&tbnid=9D4ng4AOIhRwpM&vet=12ahUKEwiQ6vSpg56IAxXXS2cHHapoFkQQM3oFCIABEAA..i&w=2000&h=2000&hcb=2&ved=2ahUKEwiQ6vSpg56IAxXXS2cHHapoFkQQM3oFCIABEAA"
+    },
+    {
+      "_id": "7u8v9w0x1y2z3a4b5c6d7e8f",
+      "name": "Bose SoundLink Revolve+",
+      "description": "Portable Bluetooth speaker with 360-degree sound.",
+      "price": 299,
+      "category": "Electronics",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nfm.com%2Fbose-soundlink-revolve-ii-bluetooth-speaker-in-triple-black-60278801%2F60278801.html&psig=AOvVaw0a_X8q2s8fa4KNK7SuNkxH&ust=1725152372784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD_tMWDnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "8v9w0x1y2z3a4b5c6d7e8f9g",
+      "name": "Xiaomi Mi Band 6",
+      "description": "Fitness tracker with AMOLED display.",
+      "price": 45,
+      "category": "Wearables",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.powerzonepacheco.com.ar%2Fproductos%2Fsmartband-xiaomi-mi-band-6%2F&psig=AOvVaw1JmgfIGfynSrIXiLK58tsj&ust=1725152404675000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiZ_NWDnogDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "_id": "9w0x1y2z3a4b5c6d7e8f9g0h",
+      "name": "Philips Hue White and Color Ambiance",
+      "description": "Smart light bulbs with color options.",
+      "price": 129,
+      "category": "Home Automation",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-nz%2Fp%2Fhue-white-and-color-ambiance-starter-kit--3-e27-smart-bulbs--1100-%2F8719514393677&psig=AOvVaw2w6Zxb8VEY3HmpoFEsrFGL&ust=1725152446404000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiChOmDnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "0x1y2z3a4b5c6d7e8f9g0h1i",
+      "name": "DeLonghi EC155",
+      "description": "Espresso machine with a frother.",
+      "price": 89,
+      "category": "Appliances",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FDeLonghi-EC155-1050-Watt-Coffee-Maker%2Fdp%2FB000F49XXG&psig=AOvVaw2Jx2DIoPvDojQYPAub8JIQ&ust=1725152477943000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCBq_eDnogDFQAAAAAdAAAAABAE"
+    },
+    {
+      "_id": "1y2z3a4b5c6d7e8f9g0h1i2j",
+      "name": "Therm-a-Rest NeoAir Xlite",
+      "description": "Ultralight sleeping pad for camping.",
+      "price": 179,
+      "category": "Outdoor",
+      "image_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.halfwayanywhere.com%2Fwp-content%2Fuploads%2F2023%2F06%2FFacebook-Therm-a-Rest-XLite-NXT.jpg&tbnid=rWyZ35oAjJwjLM&vet=10CAIQxiAoAGoXChMI8NeohYSeiAMVAAAAAB0AAAAAEBY..i&imgrefurl=https%3A%2F%2Fwww.halfwayanywhere.com%2Fgear%2Freview%2Ftherm-a-rest-neoair-xlite-nxt-review%2F&docid=XhGn8KbHWTsHHM&w=1200&h=630&itg=1&q=Therm-a-Rest%20NeoAir%20Xlite&ved=0CAIQxiAoAGoXChMI8NeohYSeiAMVAAAAAB0AAAAAEBY"
+    },
+    {
+      "_id": "2z3a4b5c6d7e8f9g0h1i2j3k",
+      "name": "Coleman Sundome Tent",
+      "description": "Four-person tent with weather protection.",
+      "price": 119,
+      "category": "Outdoor",
+      "image_url": "https://www.google.com/imgres?q=Coleman%20Sundome%20Tent&imgurl=http%3A%2F%2F5.imimg.com%2Fdata5%2FSELLER%2FDefault%2F2022%2F6%2FNZ%2FBY%2FTU%2F51269138%2Fcoleman-sundome-4-person-tent-500x500.jpg&imgrefurl=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fcoleman-sundome-4-person-tent-camping-tent-20010537162.html&docid=RSVylzPnolCnBM&tbnid=e75NV-T6Wz6ILM&vet=12ahUKEwi-6IObhJ6IAxU_VmwGHVQzPPsQM3oECBcQAA..i&w=500&h=417&hcb=2&ved=2ahUKEwi-6IObhJ6IAxU_VmwGHVQzPPsQM3oECBcQAA"
+    },
+    {
+      "_id": "3a4b5c6d7e8f9g0h1i2j3k4l",
+      "name": "   ",
+      "description": "Insulated stainless steel water bottle.",
+      "price": 45,
+      "category": "Outdoor",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hydroflask.com%2Fshop%2Fbottles-drinkware%2Fbottles&psig=AOvVaw3n_lyqNB-Fd6Jw8gcH0QN4&ust=1725152585814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCQnKuEnogDFQAAAAAdAAAAABAE"
+    }
+  ]

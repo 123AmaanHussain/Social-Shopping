@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Purchases</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .group-purchase {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .group-purchase h3 {
+            margin: 0;
+            color: #333;
+        }
+
+        .group-purchase p {
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Previous Group Purchases</h1>
+        {% if group_purchases %}
+            {% for purchase in group_purchases %}
+                <div class="group-purchase">
+                    <h3>Purchase ID: {{ purchase._id }}</h3>
+                    <p>Product: {{ purchase.product_name }}</p>
+                    <p>Quantity: {{ purchase.quantity }}</p>
+                    <p>Price: ${{ purchase.price }}</p>
+                    <p>Group: {{ purchase.group_name }}</p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No group purchases found.</p>
+        {% endif %}
+    </div>
+</body>
+
+</html>
